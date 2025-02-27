@@ -5,12 +5,12 @@ import breakpoints from "./breakpoints";
 const defaultColors: Colors = {
   transparent: "transparent",
   almostBlack: "#181818", // Used for darkmode Background
-  lightBlack: "#2F3336", // 
+  lightBlack: "#313131", // 
   almostWhite: "#f2f2f2", // Used for text in darkmode
   veryDarkBlue: "#232323", // Used for darkmode Sidebar
   slate: "#a2a2a2", // Used for creation date and viewcount below title in darkmode
   slateLight: "#f1eee8",
-  slateDark: "#a2a2a2",
+  slateDark: "#8a8a8a",
   smoke: "#FAF9F6",
   smokeLight: "#fbfaf7",
   smokeDark: "#f1eee8",
@@ -26,7 +26,7 @@ const defaultColors: Colors = {
   black75: "rgba(0, 0, 0, 0.75)",
   accent: "#0366d6",
   yellow: "#F29F10",
-  warmGrey: "#fbfaf7", // Used for sidebar in darkmode
+  warmGrey: "#FAF9F6", // Used for sidebar in lightmode
   danger: "#FF4632",
   warning: "#F5910E",
   success: "#36322F",
@@ -216,7 +216,7 @@ export const buildDarkTheme = (input: Partial<Colors>): DefaultTheme => {
     tableSelected: colors.accent,
     buttonNeutralBackground: colors.almostBlack,
     buttonNeutralText: colors.white,
-    buttonNeutralBorder: colors.slateDark,
+    buttonNeutralBorder: "#3a3a3a",
     tooltipBackground: colors.white,
     tooltipText: colors.lightBlack,
     toastBackground: colors.veryDarkBlue,

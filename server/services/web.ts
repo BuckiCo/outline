@@ -26,7 +26,7 @@ import auth from "../routes/auth";
 // Construct scripts CSP based on services in use by this installation
 const defaultSrc = ["'self'"];
 const scriptSrc = ["'self'", "www.googletagmanager.com"];
-const styleSrc = ["'self'", "'unsafe-inline'"];
+const styleSrc = ["'self'", "'unsafe-inline'", "fonts.googleapis.com"];
 
 if (env.isCloudHosted) {
   scriptSrc.push("cdn.zapier.com");

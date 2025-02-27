@@ -285,7 +285,7 @@ const style = (props: Props) => css`
 flex-grow: ${props.grow ? 1 : 0};
 justify-content: start;
 color: ${props.theme.text};
-font-family: ${props.theme.fontFamily};
+font-family: ${props.theme.fontFamilyEditor};
 font-weight: ${props.theme.fontWeightRegular};
 font-size: 1em;
 line-height: -0.011;

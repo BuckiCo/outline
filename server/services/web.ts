@@ -111,6 +111,7 @@ export default function init(app: Koa = new Koa(), server?: Server) {
         ],
         mediaSrc: ["*", "data:", "blob:"],
         imgSrc: ["*", "data:", "blob:"],
+        fontSrc: ["'self'", "fonts.gstatic.com"], 
         frameSrc: ["*", "data:"],
         // Do not use connect-src: because self + websockets does not work in
         // Safari, ref: https://bugs.webkit.org/show_bug.cgi?id=201591

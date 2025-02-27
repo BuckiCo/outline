@@ -4,10 +4,10 @@ import breakpoints from "./breakpoints";
 
 const defaultColors: Colors = {
   transparent: "transparent",
-  almostBlack: "#212121", // Used for darkmode Background
+  almostBlack: "#181818", // Used for darkmode Background
   lightBlack: "#2F3336", // 
   almostWhite: "#f2f2f2", // Used for text in darkmode
-  veryDarkBlue: "#222222", // Used for darkmode Sidebar
+  veryDarkBlue: "#232323", // Used for darkmode Sidebar
   slate: "#a2a2a2", // Used for creation date and viewcount below title in darkmode
   slateLight: "#f1eee8",
   slateDark: "#a2a2a2",

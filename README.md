@@ -2,7 +2,7 @@
   <img src="https://github.com/BuckiCo/outline/blob/main/docs/cozyoutlinelogo.png?raw=true" height="52"/>
 </p>
 <p align="center">
-  <p align="center">A themed version of Outline with cozier colors, so you don't feel like you're sitting in a cold and bleak office environment.</p>
+  <p align="center">A themed version of Outline with cozier colors, so you don't feel like you're sitting in a cold and bleak office environment.<br/><b>We changed colors and fonts.</b><br/>It's not perfect, but an honest day of work! :)</p>
   <br/>
   <img width="1640" alt="screenshot" src="https://raw.githubusercontent.com/BuckiCo/outline/295953fd5c8b5af9411843ff1cbfde04fb4ada72/docs/feature.png">
 </p>

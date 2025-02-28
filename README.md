@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BuckiCo/outline/blob/main/docs/cozyoutlinelogo.png?raw=true" height="38"/>
+  <img src="https://github.com/BuckiCo/outline/blob/main/docs/cozyoutlinelogo.png?raw=true" height="52"/>
 </p>
 <p align="center">
   <p align="center">A themed version of Outline with cozier colors, so you don't feel like you're sitting in a cold and bleak office environment.</p>

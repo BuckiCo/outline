@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/31465/34380645-bd67f474-eb0b-11e7-8d03-0151c1730654.png" height="29" />
+  <img src="https://github.com/BuckiCo/outline/blob/main/docs/cozyoutlinelogo.png?raw=true" height="38"/>
 </p>
 <p align="center">
-  <i>Our version of Outline with cozier colors, so you don't feel like you're sitting in a cold and bleak office environment.</i>
+  <i>A themed version of Outline with cozier colors, so you don't feel like you're sitting in a cold and bleak office environment.</i>
   <br/>
-  <img width="1640" alt="screenshot" src="https://user-images.githubusercontent.com/380914/110356468-26374600-7fef-11eb-9f6a-f2cc2c8c6590.png">
+  <img width="1640" alt="screenshot" src="https://github.com/BuckiCo/outline/blob/main/docs/cozyoutline.png?raw=true">
 </p>
 <p align="center">
   <a href="https://circleci.com/gh/outline/outline" rel="nofollow"><img src="https://circleci.com/gh/outline/outline.svg?style=shield"></a>
@@ -14,4 +14,4 @@
   <a href="https://translate.getoutline.com/project/outline" alt="Localized"><img src="https://badges.crowdin.net/outline/localized.svg"></a>
 </p>
 
-Outline is [BSL 1.1 licensed](LICENSE).
+Outline is a software of General Outline, Inc. licensed under [BSL 1.1 licensed](LICENSE). This repo is solely a theme, not available for sale, licensing or hosting with our company.

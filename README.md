@@ -4,7 +4,7 @@
 <p align="center">
   <p align="center">A themed version of Outline with cozier colors, so you don't feel like you're sitting in a cold and bleak office environment.</p>
   <br/>
-  <img width="1640" alt="screenshot" src="https://github.com/BuckiCo/outline/blob/main/docs/cozyoutline.png?raw=true">
+  <img width="1640" alt="screenshot" src="https://raw.githubusercontent.com/BuckiCo/outline/295953fd5c8b5af9411843ff1cbfde04fb4ada72/docs/feature.png">
 </p>
 <p align="center">
   <a href="https://circleci.com/gh/outline/outline" rel="nofollow"><img src="https://circleci.com/gh/outline/outline.svg?style=shield"></a>

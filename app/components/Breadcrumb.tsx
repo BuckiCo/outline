@@ -78,7 +78,7 @@ const Item = styled(Link)<{ $highlight: boolean; $withIcon: boolean }>`
   color: ${s("text")};
   font-size: 15px;
   height: 24px;
-  font-weight: ${(props) => (props.$highlight ? "500" : "inherit")};
+  font-weight: ${(props) => (props.$highlight ? "600" : "500")};
   margin-left: ${(props) => (props.$withIcon ? "4px" : "0")};
 
   svg {

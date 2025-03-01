@@ -195,7 +195,7 @@ const Link = styled(NavLink)<{
   display: flex;
   position: relative;
   text-overflow: ellipsis;
-  font-weight: 475;
+  font-weight: 600;
   padding: 6px 16px;
   border-radius: 4px;
   min-height: 32px;

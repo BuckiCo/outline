@@ -27,7 +27,7 @@ const RealButton = styled(ActionButton)<RealProps>`
   box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 2px;
   border-radius: 6px;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   height: 32px;
   text-decoration: none;
   flex-shrink: 0;

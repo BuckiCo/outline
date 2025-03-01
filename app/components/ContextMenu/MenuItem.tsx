@@ -129,6 +129,7 @@ export const MenuAnchorCSS = css<MenuAnchorProps>`
   border-radius: 4px;
   padding-left: ${(props) => 12 + (props.level || 0) * 10}px;
   width: 100%;
+  font-weight: 600;
   min-height: 32px;
   background: none;
   color: ${(props) =>

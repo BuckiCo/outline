@@ -84,7 +84,7 @@ const Button = styled(Flex)<{
   align-items: center;
   padding: 4px;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
   border-radius: 4px;
   border: 0;
   margin: ${(props) => (props.$position === "top" ? 16 : 8)}px 0;
